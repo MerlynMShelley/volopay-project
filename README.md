@@ -1,0 +1,2 @@
+# volopay-project
+static website
