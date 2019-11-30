@@ -1,0 +1,16 @@
+.container{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+body{
+background-color: #1c0f45;
+padding: 15px 30px 15px 30px;
+}
+img{
+	padding: 2px 2px 2px 2px;
+	transition: all 1s;
+}
+img:hover{
+	transform: scale(1:1);
+}
